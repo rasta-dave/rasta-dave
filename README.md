@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rasta-dave
+- 👋 Hi, I’m Rasta Dave
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning solidity programming language
 - 💞️ I’m looking to collaborate on anything blockchain-related
