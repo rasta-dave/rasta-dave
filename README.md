@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rasta Dave
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning solidity programming language
+- 🌱 I’m currently learning solidity and javascript
 - 💞️ I’m looking to collaborate on anything blockchain-related
 - 📫 How to reach me : https://x.com/Dave167372Rasta
 - 😄 Pronouns: Bro/Dude
