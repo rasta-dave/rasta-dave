@@ -33,7 +33,7 @@
 <h3 align="left">Programming Lanugages</h3>
  <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
+
 
  <h3 align="left">Smart Contract Frameworks</h3>
  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HardHat-yellow?style=flat-square&logo=Ethereum&logoColor=black" alt="hardhat" height="28" width="105"/> </a>
