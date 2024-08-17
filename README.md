@@ -4,7 +4,7 @@
 <a href="https://x.com/Dave167372Rasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
 
 
-<h4 align="left">Blockchain developer chrysalis </h4>
+<h4 align="left">Blockchain ninja-developer in the making </h4>
 
 
 ---
