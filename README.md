@@ -2,7 +2,6 @@
 
 <p align="left">
 <a href="https://x.com/Dave167372Rasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="0xsiddique" height="30" width="40" /></a>
 
 
 <h4 align="left">Blockchain developer chrysalis </h4>
@@ -17,13 +16,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available [**here**](https://github.com/RoboCrypter?tab=repositories)
+- 👨‍💻 All of my projects are available [**here**](https://github.com/rasta-dave?tab=repositories)
 
-- 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
+- 📫 To reach me **DM** on [**Twitter**](https://x.com/Dave167372Rasta)
 
-- 📫 To reach me **DM** on [**Twitter**](https://twitter.com/robocrypter)
-
-- ⚡ Hobbies **Competitive Games**
+- ⚡ Hobbies **Spending time in nature**
 
 
 
