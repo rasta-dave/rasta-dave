@@ -20,7 +20,7 @@
 
 - 📫 To reach me **DM** on [**Twitter**](https://x.com/Dave167372Rasta)
 
-- ⚡ Hobbies include **spending time in nature**
+- ⚡ Hobbies include **spending time in nature as well as reading**
 
 
 
