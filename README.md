@@ -12,9 +12,9 @@
 ---
 
 
-- 🔭 I’m currently working on **Ethereum Smart Contracts**
+- 🔭 I’m currently working on **Token Engineering**
 
-- 🌱 I’m currently learning **Web3 Ecosystem**
+- 🌱 I’m currently learning **Tokenomics**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
