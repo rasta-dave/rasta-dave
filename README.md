@@ -1,4 +1,4 @@
-<h2 align="left">I like DAOs.</h2>
+<h2 align="left">Hi and welcome ✌️</h2>
 
 <p align="left">
 <a href="https://x.com/Dave167372Rasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
