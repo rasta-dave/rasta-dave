@@ -16,9 +16,7 @@
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
     <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=Solana&logoColor=white" alt="rust"/> </a>
 </p>
-<p align="left">
-    <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=Solana&logoColor=white" alt="rust"/> </a>
-</p>
+
 
 
 <h3 align="left">Programming Lanugages</h3>
