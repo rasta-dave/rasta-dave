@@ -9,26 +9,14 @@
 <h4 align="left">Blockchain ninja-developer in the making </h4>
 
 
----
-
-
-- 🔭 I’m currently working on **Token Engineering**
-
-- 🌱 I’m currently learning **Tokenomics**
-
-- 👯 I’m looking to collaborate on **Open Source projects**
-
-- 👨‍💻 All of my projects are available [**here**](https://github.com/rasta-dave?tab=repositories)
-
-- 📫 To reach me **DM** on [**Twitter**](https://x.com/Dave167372Rasta)
-
-- ⚡ Hobbies include **spending time in nature as well as reading**
-
 
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
+</p>
+<p align="left">
+    <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=Solana&logoColor=white" alt="rust"/> </a>
 </p>
 
 
