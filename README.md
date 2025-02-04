@@ -1,12 +1,7 @@
 <h2 align="left">Hi and welcome ✌️</h2>
 
-<p align="left">
-<a href="https://x.com/Dave167372Rasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
-<a href="https://dev.to/uraeustriforce" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="rasta-dave" height="31" width="40" /></a>&nbsp
 
-
-
-<h4 align="left">Blockchain ninja-developer in the making </h4>
+<h4 align="left">Blockchain dev in the making </h4>
 
 
 
