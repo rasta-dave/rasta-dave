@@ -1,9 +1,8 @@
 <h2 align="left">Hi and welcome ✌️</h2>
 
+<img src="image.png" width="100%" />
 
-
-<h4 align="left">Blockchain dev in the making </h4>
-
+Full-stack engineer and Blockchain dev with a passion for building things that make a difference
 
 
 
