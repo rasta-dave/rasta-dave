@@ -2,7 +2,7 @@
 
 <img src="image.png" width="100%" />
 
-Full-stack engineer and Blockchain dev with a passion for building things that make a difference
+Full-stack engineer and Blockchain dev with a passion for building cool things that make a difference
 
 
 
