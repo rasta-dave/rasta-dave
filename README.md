@@ -1,6 +1,5 @@
 <h2 align="left">Hi and welcome ✌️</h2>
 
-<img src="imago.png" width="100%" />
 
 
 <h4 align="left">Blockchain dev in the making </h4>
