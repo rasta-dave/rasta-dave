@@ -19,6 +19,7 @@ Full-stack engineer and Blockchain dev with a passion for building cool things t
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=orange" alt="rust"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="rust"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=green" alt="python"/> </a>
 
 
  <h3 align="left">Smart Contract Frameworks</h3>
