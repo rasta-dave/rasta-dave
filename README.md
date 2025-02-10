@@ -2,7 +2,7 @@
 
 <img src="image.png" width="100%" />
 
-Full-stack and Blockchain developer student with a passion for building cool things that make a difference
+Blockchain developer student with a passion for building cool things that make a difference
 
 
 
