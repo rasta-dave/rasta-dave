@@ -1,4 +1,4 @@
-<h2 align="left">Hi and welcome ✌️</h2>
+<h2 align="left">Welcome ✌️</h2>
 
 <img src="image.png" width="100%" />
 
