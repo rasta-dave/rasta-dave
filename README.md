@@ -2,7 +2,7 @@
 
 <img src="image.png" width="100%" />
 
-Blockchain developer student with a passion for building cool things that make a difference
+Blockchain developer with a passion for building cool things that make a difference
 
 
 
