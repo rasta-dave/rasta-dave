@@ -4,6 +4,7 @@
 
 Blockchain developer with a passion for building cool things that make a difference
 
+Summer of Bitcoin @ Braidpool
 
 
 <h3 align="left">Blockchains</h3>
